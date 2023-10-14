@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class HelloWorld {
+class Pattern2{
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
